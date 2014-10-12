@@ -79,6 +79,7 @@ h1 {
 }
 
 h2 {
+  padding-top: 30px;
   padding-bottom: 10px;
   font-size: 32px;
   background: url('../images/bg_hr.png') repeat-x bottom;
@@ -362,7 +363,7 @@ Full-Width Styles
 }
 
 #main_content {
-  padding-top: 40px;
+  padding-top: 10px;
 }
 
 #footer_wrap {
