@@ -79,10 +79,12 @@ h1 {
 }
 
 h2 {
-  padding-top: 30px;
+  padding-top: 13px;
   padding-bottom: 10px;
+  padding-left: 20px;
+  margin-left: -20px;
   font-size: 36px;
-  background: url('../images/bg_hr.png') repeat-x bottom;
+  background: #E5EBE9;
 }
 
 h3 {
