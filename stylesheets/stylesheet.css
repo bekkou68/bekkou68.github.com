@@ -124,7 +124,7 @@ a {
 }
 
 #main_content a:hover {
-  color: #0069ba;
+  text-decoration: underline;
 }
 
 footer a:hover {
