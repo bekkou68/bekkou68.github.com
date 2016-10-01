@@ -242,10 +242,6 @@ form {
 Full-Width Styles
 *******************************************************************************/
 
-.outer {
-  width: 100%;
-}
-
 .inner {
   position: relative;
   max-width: 640px;
@@ -341,6 +337,7 @@ Full-Width Styles
 }
 
 #main {
+  width: 100%;
   background: #fff;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
