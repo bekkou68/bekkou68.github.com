@@ -47,12 +47,14 @@ img {
 }
 
 ul, ol, dl {
+  padding-top: 0px;
+  padding-left: 20px;
+
   margin-bottom: 15px
 }
 
 ul li {
   list-style: inside;
-  padding-left: 2px;
 }
 
 ol li {
