@@ -293,8 +293,12 @@ Full-Width Styles
   background: linear-gradient(top, #373737, #212121);
 }
 
-#header .inner {
-  padding: 50px 10px 30px 10px;
+#header div {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  position: relative;
+  max-width: 640px;
+  margin: 0 auto;
 }
 
 #project_title {
