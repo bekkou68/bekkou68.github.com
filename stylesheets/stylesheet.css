@@ -242,13 +242,6 @@ form {
 Full-Width Styles
 *******************************************************************************/
 
-.inner {
-  position: relative;
-  max-width: 640px;
-  padding: 20px 10px;
-  margin: 0 auto;
-}
-
 #forkme_banner {
   display: block;
   position: absolute;
@@ -343,6 +336,13 @@ Full-Width Styles
   border-bottom: 1px solid #111;
 }
 
+#main section {
+  position: relative;
+  max-width: 640px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
 #main_content {
   padding-top: 10px;
 }
@@ -358,11 +358,6 @@ Small Device Styles
 
   #downloads {
     display: none;
-  }
-
-  .inner {
-    min-width: 320px;
-    max-width: 480px;
   }
 
   #header h1 {
