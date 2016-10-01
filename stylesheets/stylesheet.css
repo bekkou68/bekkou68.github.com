@@ -112,10 +112,6 @@ a {
   text-shadow: none;
 }
 
-#main_content a:hover {
-  text-decoration: underline;
-}
-
 em {
   font-style: italic;
 }
@@ -336,15 +332,15 @@ Full-Width Styles
   border-bottom: 1px solid #111;
 }
 
+#main a:hover {
+  text-decoration: underline;
+}
+
 #main section {
   position: relative;
   max-width: 640px;
   padding: 20px 10px;
   margin: 0 auto;
-}
-
-#main_content {
-  padding-top: 10px;
 }
 
 /*******************************************************************************
