@@ -70,10 +70,12 @@ Full-Width Styles
 
 #header div {
   padding-top: 50px;
-  padding-bottom: 30px;
+  padding-bottom: 40px;
+
+  margin: 0 auto;
+
   position: relative;
   max-width: 800px;
-  margin: 0 auto;
 }
 
 #header h1, #header h2 {
