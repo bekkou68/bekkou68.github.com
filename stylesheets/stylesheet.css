@@ -35,7 +35,6 @@ a {
 img {
   position: relative;
   margin: 0 auto;
-  max-width: 739px;
   padding: 5px;
   margin: 10px 0 10px 0;
   border: 1px solid #ebebeb;
@@ -73,7 +72,7 @@ Full-Width Styles
   padding-top: 50px;
   padding-bottom: 30px;
   position: relative;
-  max-width: 640px;
+  max-width: 800px;
   margin: 0 auto;
 }
 
@@ -136,7 +135,7 @@ Full-Width Styles
 
 #main section {
   position: relative;
-  max-width: 640px;
+  max-width: 800px;
   padding: 40px 10px;
   margin: 0 auto;
 }
