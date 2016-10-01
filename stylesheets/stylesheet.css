@@ -352,7 +352,7 @@ Full-Width Styles
   background: url(../images/sprite_download.png) no-repeat top right;
 }
 
-#main_content_wrap {
+#main {
   background: #fff;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
@@ -365,8 +365,6 @@ Full-Width Styles
 #footer_wrap {
   background: #212121;
 }
-
-
 
 /*******************************************************************************
 Small Device Styles
